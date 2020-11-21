@@ -5,7 +5,7 @@
 ## Technology Stack
 - SASS compilation using [gulp-sass](https://github.com/dlmanning/gulp-sass)
 - Local development environment with [browser-sync](https://www.browsersync.io)
-- imagemin compressor (https://www.npmjs.com/package/gulp-imagemin)
+- imagemin [compressor](https://www.npmjs.com/package/gulp-imagemin)
 
 
 ## Structure<br>
