@@ -1,4 +1,4 @@
-# Gulp-kit
+# Gulp-kit v1.0
 
 # Gulp + BrowserSync
 
